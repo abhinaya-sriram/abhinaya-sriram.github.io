@@ -5,7 +5,7 @@ date:   2018-05-31 00:00:00 +0530
 link: https://www.thehindu.com/sport/worth-the-climb/article18664455.ece
 description: Tried rock climbing yet? Here’s your chance to learn the sport and also compete at the Fit Rock Arena.
 tags: 
-  - "The Hindu - Downtown"
+  - "The Hindu-Downtown"
 ---
 
 Worried about your children being addicted to gadgets? Here’s a sport that may see a change in the trend amongst children today.

@@ -5,7 +5,7 @@ date:   2017-05-31 00:00:00 +0530
 link: https://www.thehindu.com/entertainment/music/sofar-sounds-brings-together-music-lovers-and-artists-in-an-intimate-gathering/article18664530.ece
 description: Kabir’s poems, a song on floods and original compositions... the ninth edition of Sofar Sounds was an evening drenched in music.
 tags: 
-  - "The Hindu - MetroPlus"
+  - "The Hindu-MetroPlus"
 ---
 
 The ninth edition of the Chennai Chapter of Sofar Sounds saw live performances by Attva, Vedanth Bharadwaj and Matt Bacon at Alliance Française, Nungambakkam. They were given 25 minutes each to showcase the best in them.
