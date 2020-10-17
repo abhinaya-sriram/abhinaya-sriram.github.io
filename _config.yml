@@ -2,7 +2,7 @@ title: Abhinaya Sriram – Journalist
 logo:  # you can add own logo.
 description: Abhinaya Sriram's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abhinaya-sriram.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
