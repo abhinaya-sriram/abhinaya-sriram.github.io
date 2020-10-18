@@ -9,6 +9,7 @@ layout: default
       <h1 class="post__title">{{ page.title | escape }}</h1>
       <div class="post__date">
         <time datetime="{{ page.date | date_to_xmlschema }}">Published {{page.date | date: '%b %d, %Y'}}</time>
+        | {{ page.newspaper }}
         | <a href="{{ page.link }}" target="_blank">View on thehindu.com</a>
       </div>
       {% if page.description %}
@@ -22,14 +23,6 @@ layout: default
     <div class="post__content" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-delay="100" data-aos-duration="700">
       {{ content }}
     </div>
-
-    {% if page.tags.size >= 1 %}
-    <div class="post-tags">
-      {% for tag in page.tags %}
-      <a href='{{ site.baseurl }}/tag/{{ tag | replace: " ","-" }}' class="post-tags__tag">{{ tag | replace: "-"," - " }}</a>
-      {% endfor %}
-    </div>
-    {% endif %}
 
     <div class="post__navigation">
       {% if page.previous.url %}
