@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-image: '/assets/img/DSC_0124.JPG'
 ---
 
 A desire to connect, learn, experience and grow, prompted me to continually feed an insatiable curiosity about the lives of people and the diversity of cultures through a variety of news media. I wish to not just consume news but also learn about effective communication and contribute to sharing information and experiences with a broader audience.
